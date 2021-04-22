@@ -27,7 +27,6 @@ require (
 )
 
 replace (
-	github.com/go-kit/kit => github.com/go-kit/kit v0.3.0
 	//github.com/googleapis/gnostic => github.com/googleapis/gnostic v0.3.1
 	github.com/openshift/api => github.com/openshift/api v0.0.0-20210105115604-44119421ec6b
 	github.com/openshift/client-go => github.com/openshift/client-go v0.0.0-20210112165513-ebc401615f47
